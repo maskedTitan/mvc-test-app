@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{24DBDC2D-13D0-4FFB-BCDB-5405F682FF5F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC_TestApp/Views/Order/Payments.cshtml">
+    <Files>
+      <File FileName="MVC_TestApp/Controllers/OrderController.cs" Line="23" Column="32" />
+      <File FileName="MVC_TestApp/Models/Orders.cs" />
+      <File FileName="MVC_TestApp/Controllers/ChargeController.cs" />
+      <File FileName="MVC_TestApp/Views/Charge/Charge.cshtml" />
+      <File FileName="MVC_TestApp/Views/Shared/_Layout.cshtml" />
+      <File FileName="MVC_TestApp/App_Start/RouteConfig.cs" />
+      <File FileName="MVC_TestApp/Views/Order/Payments.cshtml" Line="22" Column="102" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVC_TestApp" expanded="True">
+            <Node name="MVC_TestApp" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Charge" expanded="True" />
+                <Node name="Order" expanded="True">
+                  <Node name="Payments.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MVC__TestApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
